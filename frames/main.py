@@ -1,7 +1,5 @@
 """ This is the main module of CND."""
 import os
-import datetime
-import time
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
