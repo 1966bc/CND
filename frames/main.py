@@ -101,8 +101,7 @@ class App(tk.Frame):
 
         self.pack(fill=tk.BOTH, expand=1)
 
-        #products
-        #-----------------------------------------------------------------------
+        
         f0 = self.engine.get_frame(self, 8)
 
         f1 = tk.Frame(f0,)
