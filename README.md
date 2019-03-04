@@ -12,6 +12,6 @@ Releasing on
 
 To start with CND execute cnd.py, something like
 
-> bc@hal9000:~/cnd$ python3 biovarase.py
+> bc@hal9000:~/cnd$ python3 cnd.py
 
 regards.
