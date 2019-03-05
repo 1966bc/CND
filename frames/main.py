@@ -249,7 +249,7 @@ class App(tk.Frame):
         
     def on_add(self, evt):
 
-        obj = frames.code.Dialog(self, engine=self.engine)
+        obj = frames.code.Dialog(self, engine=self.engine, index=None)
         obj.on_open()
                    
     def on_edit(self, evt):
@@ -285,4 +285,3 @@ def main():
   
 if __name__ == '__main__':
     main()
-    

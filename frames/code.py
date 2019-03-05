@@ -77,7 +77,7 @@ class Dialog(tk.Toplevel):
             self.set_values()
         else:
             msg = "Insert new"
-            self.enable.set(1)
+            
 
         self.title(msg)
         self.txtCategory.focus()
